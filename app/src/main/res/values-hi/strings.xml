@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SharedPrferencesPrac</string>
+    <string name="enter_your_name">अपना नाम दर्ज करें</string>
+    <string name="enter_your_password">अपना कूटशब्द भरें</string>
+    <string name="change_language">भाषा बदलो</string>
+    <string name="submit">प्रस्तुत करना</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPrferencesPrac</string>
+    <string name="submit">Submit</string>
+    <string name="change_language">Change Language</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="enter_your_name">Enter Your Name</string>
+</resources>
